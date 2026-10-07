@@ -1,0 +1,8 @@
+node_modules/
+android/
+ios/
+.idea/
+*.iml
+.DS_Store
+dist/
+www/node_modules/
